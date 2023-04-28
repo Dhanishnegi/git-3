@@ -1,3 +1,4 @@
+
 //even odd problem
 
 let num=32;
@@ -7,3 +8,4 @@ console.log("Yes");
 else{
 console.log("No");
 }
+
